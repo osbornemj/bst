@@ -1,0 +1,1 @@
+This BibTeX style requires the `hyperref` package, which defines`\url` and `\href`.
