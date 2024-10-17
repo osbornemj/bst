@@ -14,6 +14,15 @@
 %% ----------------------------------------
 %% *** BibTeX style file for Martin J. Osborne ***
  % ===============================================================
+%% Requires
+%% \usepackage{natbib}
+%% \usepackage{hyperref}
+%% Sensibly, you will in fact want to load hyperref with some options,
+%% to avoid the absurd default colors.  I suggest
+%% \usepackage{color}
+%% \definecolor{mycolor}{rgb}{0, 0, 0.6}
+%% \usepackage[colorlinks,urlcolor=blue,citecolor=mycolor,linkcolor=mycolor]{hyperref}
+%%
  % IMPORTANT NOTICE:
  % This bibliographic style (bst) file has been generated from one or
  % more master bibliographic style (mbs) files, listed above.
