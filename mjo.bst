@@ -552,8 +552,7 @@ FUNCTION {format.title}
   "title" bibinfo.check
   duplicate$ empty$ 'skip$
     {
-      "\enquote{" swap$ *
-      add.period$ "}" *
+      "\enquote{" swap$ * "}" *
     }
   if$
 }
